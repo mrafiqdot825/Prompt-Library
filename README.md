@@ -7,6 +7,10 @@ A curated collection of production-grade AI system prompts, templates, and engin
 
 ---
 
+![Prompt Library Banner](assets/banner.png)
+
+---
+
 ## Directory Functionalities & Available Prompts
 
 ### [Frontend Development](frontend/)
