@@ -1,6 +1,6 @@
-# Contributing to Awesome Dev Prompts
+# Contributing to Prompt Library
 
-Thank you for taking the time to contribute to **Awesome Dev Prompts**!
+Thank you for taking the time to contribute to **Prompt Library**!
 
 We welcome contributions of high-quality AI system prompts, templates, category improvements, and workflow guides.
 
